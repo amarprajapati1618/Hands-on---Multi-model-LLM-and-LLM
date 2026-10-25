@@ -1,0 +1,2 @@
+# Hands on : Multi model LLM and LLM
+##Hands-On: LLM Capabilities, Multimodal AI, Evaluation, Fairness and Safety   1. tokenization, BPE and text-generation sampling; 2. summarization and question answering with an open-source language model; 3. visual question answering with a small multimodal LLM; 5. benchmark metrics and their limitations; 6. hallucination, evidence grounding and abstention; 7. fairness evaluation; and 8. a safe simulated agent policy gate.
